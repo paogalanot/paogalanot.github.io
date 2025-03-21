@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
+**World Politics** (Spring Term 2025)
+University Carlos III of Madrid, undergraduate course, _lecture and seminar_
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Political Violence: Concepts, Causes and Consequences** (Fall Term 2021)
+University of Zurich, undergraduate course, _co-lecturer_
 
-Organize your courses by years, topics, or universities, however you like!
+**Tutorial Political Economy** (Spring Term 2018, 2019)
+University of Zurich, undergraduate course, _teaching assistant_
+
+
