@@ -8,4 +8,4 @@ permalink: /Curriculum/
 author_profile: TRUE
 ---
 
-<embed src="https://paogalanot.github.io/assets/pdf/CV_update_March2025" type="application/pdf" />
+<embed src="https://paogalanot.github.io/assets/pdf/CV_update_March2025.pdf" type="application/pdf" />
