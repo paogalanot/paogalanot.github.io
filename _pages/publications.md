@@ -8,7 +8,7 @@ nav_order: 2
 ---
 ## Publications
 
-1. **War Did Make States: Revisiting the Bellicist Paradigm in Early Modern Europe.** _International Organization_, 77(2), 324–362. https://doi.org/10.1017/S0020818322000352 (With Lars-Erik Cederman, Luc Girardin and Guy Schvitz) [Link](https://doi.org/10.1017/S0020818322000352)
+1. **War Did Make States: Revisiting the Bellicist Paradigm in Early Modern Europe.** _International Organization_, 77(2), 324–362. [Link](https://doi.org/10.1017/S0020818322000352)
    
 ## Work in Progress
 
