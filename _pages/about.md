@@ -19,5 +19,5 @@ I am a Visiting professor/Postdoc in Political Science at the University Carlos 
 
 My research focuses on the link between state capacity, ethnic favoritism, and conflict, with a regional focus on Latin America. In particular, my dissertation examined the impact of nation-building concerns on state-building in Latin America, looking at how the status assigned to ethnic groups within a country’s territory affected the development of sub-national state capacity. My work typically makes use of novel spatial and historical data sources. While most of my research focuses on Latin America, I have also done work on European state formation and on global trends in ethnic conflict. 
 
-Here you can find more information about my research, and you can also access my contact information.
+Here you can find more information about my research, and you can also access my contact information below.
 
