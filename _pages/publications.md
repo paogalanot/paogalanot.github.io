@@ -31,7 +31,7 @@ nav_order: 2
    
 ## Working papers or in preparation
 
-1 **The Prussia of Latin America: state-, nation-building and war in nineteenth century Chile** (R&R at _Journal of Latin American Studies_) 
+1. **The Prussia of Latin America: state-, nation-building and war in nineteenth century Chile** (R&R at _Journal of Latin American Studies_) 
  <details>
    <summary>Abstract</summary>
    <br>
