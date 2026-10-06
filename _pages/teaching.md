@@ -6,7 +6,10 @@ description:
 nav: true
 nav_order: 6
 ---
-* **World Politics** (Spring Term 2025)\
+* **International Relations** (Spring Term 2026)\
+University Carlos III of Madrid-Institute Juan Linz, MA in Social Sciences, _seminar_
+
+* **World Politics** (Spring Term 2025 and 2026)\
 University Carlos III of Madrid, undergraduate course, _lecture and seminar_
 
 * **Political Violence: Concepts, Causes and Consequences** (Fall Term 2021)\
