@@ -32,7 +32,7 @@ nav_order: 2
 ## Working papers or in preparation
 
 1. **The Prussia of Latin America: state-, nation-building and war in nineteenth century Chile** (R&R at _Journal of Latin American Studies_) 
- <details>
+   <details>
    <summary>Abstract</summary>
    <br>
    What accounts to the strength of the Chilean state relative to its neighbors? Few studies explore how Chile’s successful participation in inter-state conflicts led to a strong state but focus on national-level measures. This paper explores how the victory associated to the War of the Pacific (1868-1883) allowed the Chilean state to establish control over its territory, particularly focusing on its implications for nation-building in the Araucanía. Using various spatial and historical sources, I show that this conflict helped increase the state’s territorial reach, but these gains were not immediate, nor did they manifest across all types of state-building, especially in conflict-prone regions where incentives to build capacity were strong. 
@@ -81,8 +81,7 @@ exclusion and discrimination in Latin America** (with Luis L. Schenoni, Raul L. 
 
 ## Selected Work in Progress
 
-1. **Building States on Paper: Constitutional Proliferation and Capacity Failure in Latin America** (with Gabriel Ne-
-gretto)
+1. **Building States on Paper: Constitutional Proliferation and Capacity Failure in Latin America** (with Gabriel Negretto)
 
 2. **Boundaries of Bargaining: Repúblicas de Indios, Ethnic Mobilization, and Spatial Inequality in Public Goods
 Provision**
