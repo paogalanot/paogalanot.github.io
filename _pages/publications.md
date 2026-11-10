@@ -46,13 +46,15 @@ nav_order: 2
 <br>
 
 3. **Edited Volume: The Evolution of Violence in Latin America: From the Colonial Era to the Present** (co-Edited with Luis Schenoni and Raúl Madrid) (under review)
- * **Chapter 5:** Rebels Then and Now: Two Centuries of Popular Uprisings in Latin America 
+ * **Introduction** (with Raúl Madrid and Luis Schenoni)
+ * **Chapter 5:** Trends in Popular Uprisings 
    <details>
    <summary>Abstract</summary>
    How have popular rebellions in Latin America changed since independence? While previous literature suggests an overall decline in violence and a shift to non-violent forms of mobilization, it remains focused on patterns from the 20th and 21st century, or on specific forms of violence (e.g, guerrillas, peasant movements, etc.). This chapter uses the novel Latin American Revolts Database to trace patterns of political violence from 1830 onwards, which allows us to add nuance to this understanding of “old” forms of violence and helps us identify shifts in the way that marginalized sectors mobilized over time. Specifically, it shows that there was an overall decrease in violent popular mobilization over the last two centuries, but it also distinguishes two distinct waves of popular rebellions, varying in terms of their main participants and duration. While the 19th century was characterized by short-lived revolts by indigenous/Afro-descendant groups, workers, or peasants, the 20th century saw a rise in highly organized guerrilla movements fighting over longer periods of time, whose leaders were often part of the intellectual and professional elite. I trace these patterns to structural factors such as state capacity and democratization, as well as broader patterns of political violence, and regional diffusion mechanisms. The results indicate that growing state capacity and democratization throughout this period seem to be connected to the overall decline in popular rebellions, as well as the shift to more leaders hailing from the upper and middle classes in the case of state capacity. However, these relationships often depend on the dimension of state capacity. I also find evidence that popular rebellions are positively associated with other types of political violence (e.g., coups) occurring domestically and that they tend to follow regional patterns of mobilization. This chapter thus contributes to the broader literature examining the determinants of conflict, allowing for a macro-historical perspective in a typically under-studied region.
    </details>
 <br>
-   
+ * **Conclusion** (with Luis Schenoni and Raúl Madrid)
+ 
 4. **Engines of Progress: Nation-building and Railroad Construction in Latin America**
    <details>
    <summary>Abstract</summary>
